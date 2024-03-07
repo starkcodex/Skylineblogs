@@ -1,0 +1,10 @@
+
+
+filters in jinja:
+    safe
+    capitalize
+    lower
+    upper
+    title
+    trim
+    stringtags
